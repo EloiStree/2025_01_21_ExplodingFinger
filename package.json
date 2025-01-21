@@ -1,0 +1,23 @@
+
+{                                                                                
+  "name": "be.elab.explodingfinger",                              
+  "displayName": "Exploding Finger",                        
+  "version": "0.0.1",                         
+  "unity": "2018.1",                             
+  "unityRelease": "",                             
+  "description": "Just finger exploding force",                         
+  "keywords": ["Script","Tool"],                       
+  "dependencies":{},     
+  "relatedPackages":{},     
+  "samples" : [],     
+  "author" : {
+"name":"",
+"mail":"",
+"url":""},     
+  "repository":{
+"type":"Git",
+"url":"https://github.com/EloiStree/2025_01_21_ExplodingFinger.git",
+"footprint":"",
+"revision":""},     
+  "category": "Script"                   
+} 
